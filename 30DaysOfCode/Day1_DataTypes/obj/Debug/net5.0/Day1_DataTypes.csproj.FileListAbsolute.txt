@@ -1,0 +1,16 @@
+C:\Users\Dondre Campbell\Desktop\HackerRank_C#\30daysofcode\Day1_DataTypes\bin\Debug\net5.0\Day1_DataTypes.exe
+C:\Users\Dondre Campbell\Desktop\HackerRank_C#\30daysofcode\Day1_DataTypes\bin\Debug\net5.0\Day1_DataTypes.deps.json
+C:\Users\Dondre Campbell\Desktop\HackerRank_C#\30daysofcode\Day1_DataTypes\bin\Debug\net5.0\Day1_DataTypes.runtimeconfig.json
+C:\Users\Dondre Campbell\Desktop\HackerRank_C#\30daysofcode\Day1_DataTypes\bin\Debug\net5.0\Day1_DataTypes.runtimeconfig.dev.json
+C:\Users\Dondre Campbell\Desktop\HackerRank_C#\30daysofcode\Day1_DataTypes\bin\Debug\net5.0\Day1_DataTypes.dll
+C:\Users\Dondre Campbell\Desktop\HackerRank_C#\30daysofcode\Day1_DataTypes\bin\Debug\net5.0\ref\Day1_DataTypes.dll
+C:\Users\Dondre Campbell\Desktop\HackerRank_C#\30daysofcode\Day1_DataTypes\bin\Debug\net5.0\Day1_DataTypes.pdb
+C:\Users\Dondre Campbell\Desktop\HackerRank_C#\30daysofcode\Day1_DataTypes\obj\Debug\net5.0\Day1_DataTypes.csproj.AssemblyReference.cache
+C:\Users\Dondre Campbell\Desktop\HackerRank_C#\30daysofcode\Day1_DataTypes\obj\Debug\net5.0\Day1_DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dondre Campbell\Desktop\HackerRank_C#\30daysofcode\Day1_DataTypes\obj\Debug\net5.0\Day1_DataTypes.AssemblyInfoInputs.cache
+C:\Users\Dondre Campbell\Desktop\HackerRank_C#\30daysofcode\Day1_DataTypes\obj\Debug\net5.0\Day1_DataTypes.AssemblyInfo.cs
+C:\Users\Dondre Campbell\Desktop\HackerRank_C#\30daysofcode\Day1_DataTypes\obj\Debug\net5.0\Day1_DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Dondre Campbell\Desktop\HackerRank_C#\30daysofcode\Day1_DataTypes\obj\Debug\net5.0\Day1_DataTypes.dll
+C:\Users\Dondre Campbell\Desktop\HackerRank_C#\30daysofcode\Day1_DataTypes\obj\Debug\net5.0\ref\Day1_DataTypes.dll
+C:\Users\Dondre Campbell\Desktop\HackerRank_C#\30daysofcode\Day1_DataTypes\obj\Debug\net5.0\Day1_DataTypes.pdb
+C:\Users\Dondre Campbell\Desktop\HackerRank_C#\30daysofcode\Day1_DataTypes\obj\Debug\net5.0\Day1_DataTypes.genruntimeconfig.cache
