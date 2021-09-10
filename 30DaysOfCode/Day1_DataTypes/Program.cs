@@ -7,6 +7,7 @@ namespace Day1_DataTypes
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine(" the call to me"); 
         }
     }
 }
